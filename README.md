@@ -1,5 +1,4 @@
 # JPDB-Dynamic-Form
-
 ##This mini-project is Dynamic-JPDB-form developed using JSON Power DB.
 
 ###### JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
