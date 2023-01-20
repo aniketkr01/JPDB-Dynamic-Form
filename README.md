@@ -1,5 +1,6 @@
 # JPDB-Dynamic-Form
-##This mini-project is Dynamic-JPDB-form developed using JSON Power DB.
+
+## This mini-project is Dynamic-JPDB-form developed using JSON Power DB.
 
 ###### JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
 
@@ -24,4 +25,4 @@
 * Time series/geospatial analytics.
 * Real time application for data analytics.
 * Live working HTML templates.
-* Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps
+* Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps)
